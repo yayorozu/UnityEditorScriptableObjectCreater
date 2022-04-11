@@ -2,7 +2,7 @@
 
 ScriptableObject を作成するツール
 
-<img src="https://github.com/yayorozu/ImageUploader/blob/master/UnityEditorScriptableObjectCreator/Top.png" width="700">
+<img src="https://github.com/yayorozu/ImageUploader/blob/master/ScriptableObjectCreator/Top.png" width="700">
 
 # 使い方
 
